@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Delhi, India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akanchha112&label=Profile%20views&color=0e75b6&style=flat" alt="akanchha112" /> </p>
 
-<img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76114c55ad725b48dd32bc3f1b312060d47636aec8ee&rid=giphy.gif&ct=g" align="right"  width="25vw" />
+<img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76114c55ad725b48dd32bc3f1b312060d47636aec8ee&rid=giphy.gif&ct=g" align="right"  width="400" />
 
 - 🔭 I’m currently working on [MSI Network](https://github.com/cheshta-dua/mpr)
 
