@@ -5,7 +5,7 @@
 
 <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76114c55ad725b48dd32bc3f1b312060d47636aec8ee&rid=giphy.gif&ct=g" align="right"  width="400" />
 
-- 🔭 I’m currently working on IRRP [Frontend](https://github.com/Akanchha112/IRRP-frontend) [Backend](https://github.com/Akanchha112/IRRP-Backend)
+- 🔭 I’m currently working on IRRP ([Frontend](https://github.com/Akanchha112/IRRP-frontend) [Backend](https://github.com/Akanchha112/IRRP-Backend))
 
 - 🌱 I’m currently learning **Node.js**
 
