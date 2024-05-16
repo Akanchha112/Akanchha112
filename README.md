@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on IRRP ([Frontend](https://github.com/Akanchha112/IRRP-frontend) [Backend](https://github.com/Akanchha112/IRRP-Backend))
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently experimenting with **Node.js** and **express.js**
 
 - 👨‍💻 All of my projects are available at [Repository Link](https://github.com/Akanchha112)
 
